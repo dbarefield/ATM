@@ -13039,4 +13039,4 @@ myfunc([
     "Description": "Envelope jammed on the path of EDU when 0x14 command, combined entry cancel command, is performed.",
     "Resolution": "BLANK"
   }
-]);
+];
