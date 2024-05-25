@@ -1,4 +1,4 @@
-myfunc[
+myfunc([
   {
     "Code": 100001,
     "Description": "The PAPER_STATUS of JPR is not FULL",
